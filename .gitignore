@@ -1,0 +1,10 @@
+# IDEs and Editors
+/.vscode/
+/.idea/
+.DS_Store
+
+/node_modules/
+
+# Environment Variables
+.env
+.env.*

@@ -1,0 +1,29 @@
+{
+  "name": "ssl-proxy-server",
+  "version": "1.0.0",
+  "description": "A lightweight, simple, and customizable secure reverse proxy server within a secure connection",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.14.1",
+    "dotenv": "^16.5.0",
+    "eslint": "^9.25.1",
+    "express": "^5.1.0",
+    "install": "^0.13.0",
+    "npm": "^11.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/http-proxy": "^1.17.16",
+    "fs": "^0.0.1-security",
+    "http-proxy": "^1.18.1",
+    "https": "^1.0.0"
+  }
+}

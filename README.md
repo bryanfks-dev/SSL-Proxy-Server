@@ -2,7 +2,7 @@
 
 Create a lightweight, simple, and customizable secure reverse proxy server within a secure connection. Built with Node.js and Typescript.
 
-Example Usecase: \
+Example Usecase:
 
 ```
 http://localhost:3000 -> https://localhost
